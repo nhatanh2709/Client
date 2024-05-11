@@ -3,7 +3,7 @@ import React, { useRef, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 
 import './header.scss';
-import pic from "../../assets/pic.jpeg"
+import pic from "../../assets/png1.png"
 import logo from '../../assets/logo.png';
 
 const headerNav = [
